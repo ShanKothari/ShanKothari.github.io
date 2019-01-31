@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-__Check out my CV [at this link](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
+__Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 Halpern, C., Antos, J., __Kothari, S. A.__, and A. Olson. Past tree influence and prescribed fire exert strong controls on reassembly of mountain grasslands after tree removal. (accepted at _Ecological Applications_)
 
