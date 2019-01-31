@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+__Check out my CV [at this link](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
+
 Halpern, C., Antos, J., __Kothari, S. A.__, and A. Olson. Past tree influence and prescribed fire exert strong controls on reassembly of mountain grasslands after tree removal. (accepted at _Ecological Applications_)
 
 Cavender-Bares, J., __Kothari, S. A.__, and W. Pearse. [Evolutionary Ecology of Communities.](http://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0111.xml) _Oxford Bibliographies in Evolutionary Biology_ (2018).
