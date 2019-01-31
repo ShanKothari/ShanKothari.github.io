@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
 ---
 
 Cavender-Bares, J., Kothari, S. A., and W. Pearse. Evolutionary Ecology of Communities. Oxford Bibliographies in Evolutionary Biology (2018).
