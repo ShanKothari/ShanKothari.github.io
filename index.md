@@ -5,4 +5,4 @@ layout: default
 
 Since Fall 2014, I have been a PhD student in the [Cavender-Bares Lab](https://cbs.umn.edu/cavender-bares-lab/home) at University of Minnesota. Before that, I did my undergraduate work at Michigan State University.
 
-This website is still under construction, but please poke back around later to see what I'm working on!
+I am an ecophysiologist and community ecologist with a particular interest in the ways plant species respond to their light environment. My research concerns the dual role of light as both an essential resource and a potential stressor. Please feel free to send me an email at <kotha020@umn.edu>.
