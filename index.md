@@ -5,6 +5,6 @@ layout: default
 
 Since Fall 2014, I have been a PhD student in the [Cavender-Bares Lab](https://cbs.umn.edu/cavender-bares-lab/home) at University of Minnesota. Before that, I did my undergraduate work at Michigan State University.
 
-I am an ecophysiologist and community ecologist with a particular interest in the ways plant species respond to their light environment. My research concerns the dual role of light as both an essential resource and a potential stressor. I also use spectroscopy and remote sensing to help me understand physiology at large scales.
+I am an ecophysiologist and community ecologist with a particular interest in the ways plants respond to their light environment. My research concerns the dual role of light as both an essential resource and a potential stressor for plants. I also use spectroscopy and remote sensing to help me understand how plants work at large scales.
 
 Follow me [on Twitter](https://twitter.com/ShanKothari)! And please feel free to reach out at <kotha020@umn.edu>.
