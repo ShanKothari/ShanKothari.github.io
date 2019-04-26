@@ -6,7 +6,9 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-Halpern, C., Antos, J., __Kothari, S. A.__, and A. Olson. Past tree influence and prescribed fire exert strong controls on reassembly of mountain grasslands after tree removal. (early view at _Ecological Applications_) [PDF](/Documents/HalpernetalEcoApps2019.pdf)
+__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. Throwing shade: Light-mediated facilitation and competition in a tree diversity experiment. (in prep, manuscript available upon request)
+
+Halpern, C., Antos, J., __Kothari, S. A.__, and A. Olson. Past tree influence and prescribed fire exert strong controls on reassembly of mountain grasslands after tree removal. _Ecological Applications_ 29 (2019): e01860. [PDF](/Documents/HalpernetalEcoApps2019.pdf)
 
 Cavender-Bares, J., __Kothari, S. A.__, and W. Pearse. [Evolutionary Ecology of Communities.](http://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0111.xml) _Oxford Bibliographies in Evolutionary Biology_ (2018). [PDF](/Documents/JCBetalOBEB2018.pdf)
 
