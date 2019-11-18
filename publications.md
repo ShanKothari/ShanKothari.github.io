@@ -6,11 +6,11 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. Throwing shade: Light-mediated facilitation and competition in a tree diversity experiment. (in prep, manuscript available upon request)
-
 Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. Plant spectral niches, community composition and the role of complementarity in biodiversity-ecosystem function relationships. (submitted)
 
-Runquist, R. B\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis. (in press at *American Naturalist*) (\*equal contributors)
+__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Throwing shade: Light-mediated facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v1) *biorXiv*.
+
+Runquist, R. B\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. [Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707322) (in press at *American Naturalist*) (\*equal contributors)
 
 Halpern, C., Antos, J., __Kothari, S. A.__, and A. Olson. [Past tree influence and prescribed fire exert strong controls on reassembly of mountain grasslands after tree removal.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1860) _Ecological Applications_ 29 (2019): e01860. [PDF](/Documents/HalpernetalEcoApps2019.pdf)
 
