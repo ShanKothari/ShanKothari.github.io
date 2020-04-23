@@ -6,11 +6,11 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. Plant spectral niches reflect species’ complementary functional roles. (submitted)
+Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. Plant spectral niches reflect species’ complementary functional roles. (in revision)
 
 __Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Throwing shade: Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v1) *biorXiv*.
 
-Briscoe Runquist, R. D.\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. [Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707322) (in press at *American Naturalist*) (\*equal contributors)
+Briscoe Runquist, R. D.\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. [Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707322) _The American Naturalist_ 195 (2020): 412-431. [PDF](/Documents/RunquistetalAmNat2020.pdf) (\*equal contributors)
 
 Halpern, C., Antos, J., __Kothari, S. A.__, and A. Olson. [Past tree influence and prescribed fire exert strong controls on reassembly of mountain grasslands after tree removal.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1860) _Ecological Applications_ 29 (2019): e01860. [PDF](/Documents/HalpernetalEcoApps2019.pdf)
 
