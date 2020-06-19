@@ -6,7 +6,7 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-__Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.] (in prep, manuscript available upon request)
+__Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in prep, manuscript available upon request)
 
 Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (submitted to _Proceedings of the Royal Society B_).
 
