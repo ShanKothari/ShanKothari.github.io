@@ -8,9 +8,11 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in prep, manuscript available upon request)
 
-Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (submitted to _Proceedings of the Royal Society B_).
+Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (submitted to _Proceedings of the Royal Society B_)
 
-__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v3) *biorXiv* (submitted to _Journal of Ecology_).
+__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v3) *biorXiv* (submitted to _Journal of Ecology_)
+
+Zarnetske, P. L., Gurevitch, J., Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. (in revision at _PNAS_)
 
 Briscoe Runquist, R. D.\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. [Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707322) _The American Naturalist_ 195 (2020): 412-431. [PDF](/Documents/RunquistetalAmNat2020.pdf) (\*equal contributors)
 
