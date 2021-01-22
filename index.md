@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](/Images/023_UMF-CedarCreek_10-18-2018_light_color.jpg)
+![](/Images/023_UMF-CedarCreek_10-18-2018.jpg)
 
 Since Fall 2020, I've been a postdoctoral researcher in Etienne Laliberté's lab at Université de Montréal as part of the Canadian Airborne Biodiversity Observatory. Before, I did my PhD in the [Cavender-Bares Lab](https://cbs.umn.edu/cavender-bares-lab/home) at University of Minnesota.
 
