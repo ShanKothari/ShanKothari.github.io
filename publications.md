@@ -12,7 +12,7 @@ __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of lea
 
 Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (in revision, _Proceedings of the Royal Society B_)
 
-__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v5) *biorXiv* (in revision, _Journal of Ecology_)
+__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v5) *biorXiv* (accepted, _Journal of Ecology_)
 
 Zarnetske, P. L.\*, Gurevitch, J.\*, Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. (accepted, _PNAS_) (\*equal contributors)
 
