@@ -6,11 +6,11 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-__Kothari, S. A.__, Beauchamp-Rioux, R., Laliberté, E., and J. M. Cavender-Bares. Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves. (in prep, full manuscript available upon request)
+__Kothari, S. A.__, Beauchamp-Rioux, R., Laliberté, E., and J. Cavender-Bares. Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves. (in prep, full manuscript available upon request)
 
 __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in prep, full manuscript available upon request)
 
-Schweiger, A. K., Cavender-Bares, J. M., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (in revision, _Proceedings of the Royal Society B_)
+Schweiger, A. K., Cavender-Bares, J., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (in revision, _Proceedings of the Royal Society B_)
 
 __Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v5) *biorXiv* (accepted, _Journal of Ecology_)
 
