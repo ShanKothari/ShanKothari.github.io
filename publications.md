@@ -10,11 +10,11 @@ __Kothari, S. A.__, Beauchamp-Rioux, R., Laliberté, E., and J. Cavender-Bares. 
 
 __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in prep, full manuscript available upon request)
 
-Schweiger, A. K., Cavender-Bares, J., Townsend, P. A., Hobbie, S. E., Madritch, M. D., __Kothari, S. A.__, Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Spectral niches reveal taxonomic identity and complementarity in plant communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v1) *biorXiv* (in revision, _Proceedings of the Royal Society B_)
-
-__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://www.biorxiv.org/content/10.1101/845701v5) *biorXiv* (accepted, _Journal of Ecology_)
+Schweiger, A. K., Cavender-Bares, J., __Kothari, S. A.__, Townsend, P. A., Madritch, M. D., Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2) *biorXiv* (in revision, _Proceedings of the Royal Society B_)
 
 Zarnetske, P. L.\*, Gurevitch, J.\*, Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. (accepted, _PNAS_) (\*equal contributors)
+
+__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13637) _Journal of Ecology_, early view. (available on [*biorXiv*](https://www.biorxiv.org/content/10.1101/845701v5))
 
 Briscoe Runquist, R. D.\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. [Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707322) _The American Naturalist_ 195 (2020): 412-431. [PDF](/Documents/RunquistetalAmNat2020.pdf) (\*equal contributors)
 
