@@ -12,7 +12,7 @@ __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of lea
 
 Schweiger, A. K., Cavender-Bares, J., __Kothari, S. A.__, Townsend, P. A., Madritch, M. D., Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2) *biorXiv* (in revision, _Proceedings of the Royal Society B_)
 
-Zarnetske, P. L.\*, Gurevitch, J.\*, Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. (accepted, _PNAS_) (\*equal contributors)
+Zarnetske, P. L.\*, Gurevitch, J.\*, Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. [Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth.](https://www.pnas.org/content/118/15/e1921854118) _PNAS_ 118 (2021): e1921854118. [PDF](/Documents/ZarnetskeetalPNAS2021.pdf) (\*equal contributors)
 
 __Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13637) _Journal of Ecology_ early view (2021). [PDF](/Documents/KotharietalJEcol2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/845701v5)
 
