@@ -14,7 +14,7 @@ Schweiger, A. K., Cavender-Bares, J., __Kothari, S. A.__, Townsend, P. A., Madri
 
 Zarnetske, P. L.\*, Gurevitch, J.\*, Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. [Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth.](https://www.pnas.org/content/118/15/e1921854118) _PNAS_ 118 (2021): e1921854118. [PDF](/Documents/ZarnetskeetalPNAS2021.pdf) (\*equal contributors)
 
-__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13637) _Journal of Ecology_ early view (2021). [PDF](/Documents/KotharietalJEcol2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/845701v5)
+__Kothari, S. A.__, Montgomery, R., and J. Cavender-Bares. [Physiological responses to light explain facilitation and competition in a tree diversity experiment.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13637) _Journal of Ecology_ 109 (2021): 2000-2018. [PDF](/Documents/KotharietalJEcol2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/845701v5)
 
 Briscoe Runquist, R. D.\*, Gorton, A.\*, Yoder, J. B.\*, Deacon, N. J., Grossman, J. J., __Kothari, S. A.__, Lyons, M., Sheth, S., Tiffin, P., and D. A. Moeller. [Context dependence of local adaptation to abiotic and biotic environments: a quantitative and qualitative synthesis.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707322) _The American Naturalist_ 195 (2020): 412-431. [PDF](/Documents/RunquistetalAmNat2020.pdf) (\*equal contributors)
 
