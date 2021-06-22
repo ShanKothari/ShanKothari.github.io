@@ -7,4 +7,4 @@ Since Fall 2020, I've been a postdoctoral researcher in Etienne Laliberté's lab
 
 I am an ecophysiologist and community ecologist with a particular interest in the ways plants respond to their light environment. My PhD research concerned the dual role of light as both an essential resource and a potential stressor for plants. Right now, I am working to describe the range of functional variation in plant reflectance spectra, which could help researchers monitor plant communities from space.
 
-Follow me [on Twitter](https://twitter.com/ShanKothari), and please feel free to reach out at <kotha020@umn.edu>!
+Follow me [on Twitter](https://twitter.com/ShanKothari), and please feel free to reach out at <shan.kothari@umontreal.ca>!
