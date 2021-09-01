@@ -10,7 +10,7 @@ __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of lea
 
 __Kothari, S. A.__, Beauchamp-Rioux, R., Laliberté, E., and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856v1) *biorXiv* (invited as a submission to _Methods in Ecology and Evolution_)
 
-Schweiger, A. K., Cavender-Bares, J., __Kothari, S. A.__, Townsend, P. A., Madritch, M. D., Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2) *biorXiv* (accepted, _Proceedings of the Royal Society B_)
+Schweiger, A. K., Cavender-Bares, J., __Kothari, S. A.__, Townsend, P. A., Madritch, M. D., Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1290) _Proceedings of the Royal Society B_ 288 (2021): 20211290. [PDF](/Documents/SchweigeretalProcB2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2)
 
 Zarnetske, P. L.\*, Gurevitch, J.\*, Franklin, J., Groffman, P., Harrison, C., Hellmann, J., Hoffman, F. M., __Kothari, S. A.__, Robock, A., Tilmes, S., Visioni, D., Wu, J., Xia, L., and C.-E. Yang. [Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth.](https://www.pnas.org/content/118/15/e1921854118) _PNAS_ 118 (2021): e1921854118. [PDF](/Documents/ZarnetskeetalPNAS2021.pdf) (\*equal contributors)
 
