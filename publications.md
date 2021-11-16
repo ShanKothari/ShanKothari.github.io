@@ -8,7 +8,7 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 __Kothari, S. A.__, Hobbie, S. E., and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in prep, full manuscript available upon request)
 
-__Kothari, S. A.__, Beauchamp-Rioux, R., Laliberté, E., and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856v1) *biorXiv* (invited as a submission to _Methods in Ecology and Evolution_)
+__Kothari, S. A.__, Beauchamp-Rioux, R., Laliberté, E., and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (invited submission to _Methods in Ecology and Evolution_)
 
 Schweiger, A. K., Cavender-Bares, J., __Kothari, S. A.__, Townsend, P. A., Madritch, M. D., Grossman, J. J., Gholizadeh, H., Wang, R., and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1290) _Proceedings of the Royal Society B_ 288 (2021): 20211290. [PDF](/Documents/SchweigeretalProcB2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2)
 
