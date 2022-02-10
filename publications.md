@@ -10,7 +10,7 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 A. K. Schweiger and __S. A. Kothari__. Plant spectra as integrative measures of phenotypes. (invited submission to *Journal of Ecology*)
 
-__S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in prep, full manuscript available upon request)
+__S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in preparation, full manuscript available upon request)
 
 R. L. Bryant, C. R. See, __S. A. Kothari__, S. J. Curran, J. J. Grossman, C. Nash and G. C. Neumiller. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (in preparation for *Forest Ecology and Management*)
 
