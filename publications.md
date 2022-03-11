@@ -16,9 +16,11 @@ R. L. Bryant, C. R. See, __S. A. Kothari__, S. J. Curran, J. J. Grossman, C. Nas
 
 __S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. Predicting leaf traits across functional groups using reflectance spectroscopy. (in preparation for *New Phytologist*; full manuscript available upon request)
 
+__S. A. Kothari__. When and how does photoinhibition matter for plant fitness? (invited submission to *American Journal of Botany*)
+
 ## Published
 
-__S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (invited submission to _Methods in Ecology and Evolution_)
+__S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (invited, in revision at _Methods in Ecology and Evolution_)
 
 A. K. Schweiger, J. Cavender-Bares, __S. A. Kothari__, P. A. Townsend, M. D. Madritch, J. J. Grossman, H. Gholizadeh, R. Wang and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1290) _Proceedings of the Royal Society B_ 288 (2021): 20211290. [PDF](/Documents/SchweigeretalProcB2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2)
 
