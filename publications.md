@@ -8,7 +8,7 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## In preparation
 
-A. K. Schweiger and __S. A. Kothari__. Plant spectra as integrative measures of phenotypes. (invited submission to *Journal of Ecology*)
+__S. A. Kothari__\* and A. K. Schweiger\*. Plant spectra as integrative measures of phenotypes. (invited submission to *Journal of Ecology*; \*equal contributors)
 
 __S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in preparation, full manuscript available upon request)
 
