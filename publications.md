@@ -8,8 +8,6 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## In preparation
 
-__S. A. Kothari__\* and A. K. Schweiger\*. Plant spectra as integrative measures of phenotypes. (invited submission to *Journal of Ecology*; \*equal contributors)
-
 __S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in preparation, full manuscript available upon request)
 
 R. L. Bryant, C. R. See, __S. A. Kothari__, S. J. Curran, J. J. Grossman, C. Nash and G. C. Neumiller. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (in preparation for *Forest Ecology and Management*)
@@ -19,6 +17,8 @@ __S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Gu
 __S. A. Kothari__. When and how does photoinhibition matter for plant fitness? (invited submission to *American Journal of Botany*)
 
 ## Published
+
+__S. A. Kothari__\* and A. K. Schweiger\*. [Plant spectra as integrative measures of phenotypes.](https://ecoevorxiv.org/bfc5t/) *EcoEvoRxiv* (invited, submitted to *Journal of Ecology*; \*equal contributors)
 
 __S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (invited, in revision at _Methods in Ecology and Evolution_)
 
