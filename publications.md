@@ -20,7 +20,7 @@ __S. A. Kothari__. When and how does photoinhibition matter for plant fitness? (
 
 __S. A. Kothari__\* and A. K. Schweiger\*. [Plant spectra as integrative measures of phenotypes.](https://ecoevorxiv.org/bfc5t/) *EcoEvoRxiv* (invited, submitted to *Journal of Ecology*; \*equal contributors)
 
-__S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (invited, in revision at _Methods in Ecology and Evolution_)
+__S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (in press at _Methods in Ecology and Evolution_)
 
 A. K. Schweiger, J. Cavender-Bares, __S. A. Kothari__, P. A. Townsend, M. D. Madritch, J. J. Grossman, H. Gholizadeh, R. Wang and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1290) _Proceedings of the Royal Society B_ 288 (2021): 20211290. [PDF](/Documents/SchweigeretalProcB2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2)
 
