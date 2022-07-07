@@ -12,15 +12,15 @@ __S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf l
 
 R. L. Bryant, C. R. See, __S. A. Kothari__, S. J. Curran, J. J. Grossman, C. Nash and G. C. Neumiller. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (in preparation for *Forest Ecology and Management*)
 
-__S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. Predicting leaf traits across functional groups using reflectance spectroscopy. (in preparation for *New Phytologist*; full manuscript available upon request)
-
 __S. A. Kothari__. When and how does photoinhibition matter for plant fitness? (invited submission to *American Journal of Botany*)
 
 ## Published
 
+__S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2022.07.01.498461) *bioRxiv* (submitted to *New Phytologist*)
+
 __S. A. Kothari__\* and A. K. Schweiger\*. [Plant spectra as integrative measures of phenotypes.](https://ecoevorxiv.org/bfc5t/) *EcoEvoRxiv* (in press at *Journal of Ecology*; \*equal contributors)
 
-__S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *biorXiv* (in press at _Methods in Ecology and Evolution_)
+__S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *bioRxiv* (in press at _Methods in Ecology and Evolution_)
 
 A. K. Schweiger, J. Cavender-Bares, __S. A. Kothari__, P. A. Townsend, M. D. Madritch, J. J. Grossman, H. Gholizadeh, R. Wang and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1290) _Proceedings of the Royal Society B_ 288 (2021): 20211290. [PDF](/Documents/SchweigeretalProcB2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2)
 
