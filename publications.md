@@ -8,11 +8,13 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## In preparation or in review
 
-__S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in preparation, full manuscript available upon request)
+__S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (in preparation for *Ecological Applications*, full manuscript available upon request)
 
 R. L. Bryant, C. R. See, __S. A. Kothari__, S. J. Curran, J. J. Grossman, C. Nash and G. C. Neumiller. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (in preparation for *Forest Ecology and Management*)
 
 __S. A. Kothari__. When and how does photoinhibition matter for plant fitness? (in review, invited submission at *American Journal of Botany*)
+
+__S. A. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees. (in preparation)
 
 ## Published
 
