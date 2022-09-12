@@ -40,4 +40,4 @@ R. Wang, J. A. Gamon, A. K. Schweiger, J. Cavender-Bares, P. A. Townsend, A. I. 
 
 __S. A. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomery and J. Gamon. [Community-wide consequences of variation in photoprotective physiology among prairie plants.](https://link.springer.com/article/10.1007/s11099-018-0777-9) _Photosynthetica_ 56 (2018): 455–467. [PDF](/Documents/KotharietalPhotosynthetica2018.pdf)
 
-__S. A. Kothari__ [Characterization of a Family of Cubic Dynamical Systems.](https://lib.bsu.edu/beneficencepress/mathexchange/08-01/) _Ball State Undergraduate Mathematics Exchange_ (2011), 8(1): 25–36, 201. [PDF](Documents/KothariBSUME2011.pdf)
+<!--- __S. A. Kothari__ [Characterization of a Family of Cubic Dynamical Systems.](https://lib.bsu.edu/beneficencepress/mathexchange/08-01/) _Ball State Undergraduate Mathematics Exchange_ (2011), 8(1): 25–36, 201. [PDF](Documents/KothariBSUME2011.pdf) --->
