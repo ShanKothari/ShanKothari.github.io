@@ -12,11 +12,11 @@ __S. A. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf l
 
 R. L. Bryant, C. R. See, __S. A. Kothari__, S. J. Curran, J. J. Grossman, C. Nash and G. C. Neumiller. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (in preparation for *Forest Ecology and Management*)
 
-__S. A. Kothari__. When and how does photoinhibition matter for plant fitness? (in review, invited submission at *American Journal of Botany*)
-
 __S. A. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees. (in preparation)
 
 ## Published
+
+__S. A. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/zcv2r) *EcoEvoRxiv* (invited submission to *American Journal of Botany*).
 
 __S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2022.07.01.498461) *bioRxiv* (submitted to *New Phytologist*).
 
