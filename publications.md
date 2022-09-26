@@ -18,7 +18,7 @@ __S. A. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic 
 
 __S. A. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/zcv2r) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-__S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2022.07.01.498461) *bioRxiv* (accepted with pending revisions at *New Phytologist*).
+__S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2022.07.01.498461) *bioRxiv* (accepted pending minor revisions at *New Phytologist*).
 
 __S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://www.biorxiv.org/content/10.1101/2021.04.21.440856) *bioRxiv* (in press at _Methods in Ecology and Evolution_).
 
