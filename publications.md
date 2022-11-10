@@ -22,7 +22,7 @@ __S. A. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Gu
 
 __S. A. Kothari__, R. Beauchamp-Rioux, E. Laliberté and J. Cavender-Bares. [Reflectance spectroscopy allows rapid, accurate, and non-destructive estimates of functional traits from pressed leaves.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13958) *Methods in Ecology and Evolution* (early view). [PDF](/Documents/KotharietalMEE2022.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2021.04.21.440856)
 
-__S. A. Kothari__\* and A. K. Schweiger\*. [Plant spectra as integrative measures of plant phenotypes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13972) *Journal of Ecology* (early view). [PDF](/Documents/KothariSchweigerJEcol2022.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/bfc5t/)  (\*equal contributors)
+__S. A. Kothari__\* and A. K. Schweiger\*. [Plant spectra as integrative measures of plant phenotypes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13972) *Journal of Ecology* 110 (2022): 2536-2554. [PDF](/Documents/KothariSchweigerJEcol2022.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/bfc5t/)  (\*equal contributors)
 
 A. K. Schweiger, J. Cavender-Bares, __S. A. Kothari__, P. A. Townsend, M. D. Madritch, J. J. Grossman, H. Gholizadeh, R. Wang and J. A. Gamon. [Coupling spectral and resource-use complementarity in experimental grassland and forest communities.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1290) _Proceedings of the Royal Society B_ 288 (2021): 20211290. [PDF](/Documents/SchweigeretalProcB2021.pdf) and [*biorXiv* version](https://www.biorxiv.org/content/10.1101/2020.04.24.060483v2)
 
