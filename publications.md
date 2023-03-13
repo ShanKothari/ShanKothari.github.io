@@ -10,13 +10,15 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (full manuscript available upon request)
 
-R. L. Bryant, __S. Kothari__, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment.
+R. L. Bryant, __S. Kothari__, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (full manuscript available upon request)
 
 __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
 
 J. Cavender-Bares, C. Lapadat, M. Kaproth, J. A. Guzmán, M. Park, J. Grossman, __S. Kothari__, S. E. Hobbie, and R. A. Montgomery. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.
 
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
+
+__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional strategies and neighborhood interactions influence self-pruning in tree crowns.
 
 ## Published
 
