@@ -12,6 +12,8 @@ __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litt
 
 R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (\*equal contributors; submitted to *Ecological Applications*; full manuscript available upon request)
 
+C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests.
+
 __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
 
 J. Cavender-Bares, C. Lapadat, M. Kaproth, J. A. Guzmán, M. Park, J. Grossman, __S. Kothari__, S. E. Hobbie, and R. A. Montgomery. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.
