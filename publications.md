@@ -10,8 +10,6 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (full manuscript available upon request)
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (\*equal contributors; submitted to *Ecological Applications*; full manuscript available upon request)
-
 C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests.
 
 __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
@@ -22,9 +20,13 @@ A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. T
 
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional strategies and neighborhood interactions influence self-pruning in tree crowns.
 
-## Published
+## In review or revision
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/zcv2r) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
+
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (\*equal contributors; submitted to *Ecological Applications*; full manuscript available upon request)
+
+## Published
 
 __S. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, M. J. Pardo Losada, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18713) *New Phytologist* 238 (2023): 549-566. [PDF](/Documents/KotharietalNewPhyt2023.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2022.07.01.498461)
 
