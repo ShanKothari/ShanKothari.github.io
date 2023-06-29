@@ -24,7 +24,7 @@ __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional s
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/zcv2r) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Drivers of above and belowground carbon sequestration after six years of afforestation in a tree biodiversity experiment. (\*equal contributors; submitted to *Ecological Applications*; full manuscript available upon request)
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; submitted to *Ecological Applications*; full manuscript available upon request)
 
 ## Published
 
