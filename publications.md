@@ -10,8 +10,6 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (full manuscript available upon request)
 
-C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests.
-
 __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
 
 J. Cavender-Bares, C. Lapadat, M. Kaproth, J. A. Guzmán, M. Park, J. Grossman, __S. Kothari__, S. E. Hobbie, and R. A. Montgomery. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.
@@ -25,6 +23,8 @@ __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional s
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
 R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; submitted to *Ecological Applications*; full manuscript available upon request)
+
+C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests. (submitted to *Environmental Research Letters*)
 
 ## Published
 
