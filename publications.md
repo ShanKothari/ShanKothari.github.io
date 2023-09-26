@@ -12,7 +12,7 @@ __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litt
 
 __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
 
-J. Cavender-Bares, C. Lapadat, M. Kaproth, J. A. Guzmán, M. Park, J. Grossman, __S. Kothari__, S. E. Hobbie, and R. A. Montgomery. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.
+J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.
 
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
 
