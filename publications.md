@@ -18,7 +18,7 @@ A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. T
 
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional strategies and neighborhood interactions influence self-pruning in tree crowns.
 
-E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. (registered report at *BMC Biology*)
+E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvorXiv* (registered report at *BMC Biology*)
 
 ## In review or revision
 
