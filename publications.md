@@ -18,8 +18,6 @@ A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. T
 
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional strategies and neighborhood interactions influence self-pruning in tree crowns.
 
-E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvorXiv* (registered report at *BMC Biology*)
-
 ## In review or revision
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
@@ -27,6 +25,8 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; in revision at *Ecological Applications*; full manuscript available upon request)
 
 C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests. (submitted to *Environmental Research Letters*)
+
+E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvorXiv* (submitted to *BMC Biology*)
 
 ## Published
 
