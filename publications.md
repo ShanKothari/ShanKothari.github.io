@@ -8,8 +8,6 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## In preparation
 
-__S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (full manuscript available upon request)
-
 __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
 
 J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.
@@ -27,6 +25,8 @@ R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossma
 C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests. (submitted to *Environmental Research Letters*)
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvorXiv* (submitted to *BMC Biology*)
+
+__S. Kothari__, S. E. Hobbie and J. Cavender-Bares. Rapid estimates of leaf litter chemistry using reflectance spectroscopy. (submitted to *Canadian Journal of Forest Research*)
 
 ## Published
 
