@@ -18,8 +18,6 @@ __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional s
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; resubmitted after revision to *Ecological Applications*)
-
 C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests. (submitted to *Environmental Research Letters*)
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1) *bioRxiv* (submitted to *Canadian Journal of Forest Research*)
@@ -29,6 +27,8 @@ J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Ko
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (submitted to *BMC Biology*)
 
 ## Published
+
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; in press at *Ecological Applications*)
 
 __S. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, J. Pardo, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18713) *New Phytologist* 238 (2023): 549-566. [PDF](/Documents/KotharietalNewPhyt2023.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2022.07.01.498461)
 
