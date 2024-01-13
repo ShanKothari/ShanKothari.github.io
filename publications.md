@@ -28,7 +28,7 @@ E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidl
 
 ## Published
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; in press at *Ecological Applications*)
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; accepted at *Ecological Applications*)
 
 __S. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, J. Pardo, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18713) *New Phytologist* 238 (2023): 549-566. [PDF](/Documents/KotharietalNewPhyt2023.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2022.07.01.498461)
 
