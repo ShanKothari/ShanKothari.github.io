@@ -16,7 +16,7 @@ __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional s
 
 ## In review or revision
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on above- and belowground carbon pools after 6 years of experimental afforestation. (\*equal contributors; resubmitted after revisions to *Ecological Applications*)
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation. (\*equal contributors; under minor revisions at *Ecological Applications*)
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
@@ -24,7 +24,7 @@ C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. 
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1) *bioRxiv* (in revision at *Canadian Journal of Forest Research*)
 
-J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience. (submitted to *Methods in Ecology and Evolution*)
+J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1) *bioRxiv* (submitted to *Methods in Ecology and Evolution*)
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (submitted to *BMC Biology*)
 
