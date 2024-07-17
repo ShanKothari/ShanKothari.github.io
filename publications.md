@@ -16,8 +16,6 @@ __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional s
 
 ## In review or revision
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation. (\*equal contributors; under minor revisions at *Ecological Applications*)
-
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
 J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1) *bioRxiv* (submitted to *Methods in Ecology and Evolution*)
@@ -26,9 +24,11 @@ E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidl
 
 ## Published
 
-C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for alpha and beta diversity: A comparison of open vegetation and forests. (accepted at *Environmental Research Letters*)
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation. (\*equal contributors; accepted at *Ecological Applications*)
 
-__S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1) *bioRxiv* (accepted at *Canadian Journal of Forest Research*)
+__S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2023-0280) (in press at *Canadian Journal of Forest Research*). [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1)
+
+C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for α- and β-diversity: A comparison of open vegetation and forests. *Environmental Research Letters* 19 (2024): 064005. [PDF](/Documents/WallisetalERL2024.pdf)
 
 __S. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, J. Pardo, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18713) *New Phytologist* 238 (2023): 549-566. [PDF](/Documents/KotharietalNewPhyt2023.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2022.07.01.498461)
 
