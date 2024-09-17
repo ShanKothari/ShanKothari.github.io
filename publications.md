@@ -20,11 +20,11 @@ C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mor
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1) *bioRxiv* (re-submitted after revisions to *Methods in Ecology and Evolution*)
-
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (submitted to *BMC Biology*)
 
 ## Published
+
+J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1) *bioRxiv* (accepted at *Methods in Ecology and Evolution*)
 
 R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation. (\*equal contributors; accepted at *Ecological Applications*)
 
