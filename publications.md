@@ -28,7 +28,7 @@ J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Ko
 
 R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation. (\*equal contributors; accepted at *Ecological Applications*)
 
-__S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy](https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2023-0280) (in press at *Canadian Journal of Forest Research*). [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1)
+__S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2023-0280) *Canadian Journal of Forest Research* 54 (2024): 978-991. [PDF](/Documents/Kotharietal2024CJFR.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1)
 
 C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for α- and β-diversity: A comparison of open vegetation and forests. *Environmental Research Letters* 19 (2024): 064005. [PDF](/Documents/WallisetalERL2024.pdf)
 
