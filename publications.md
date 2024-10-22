@@ -12,21 +12,21 @@ __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic con
 
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
 
-__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. Functional strategies and neighborhood interactions influence self-pruning in tree crowns.
-
 C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships.
 
 ## In review or revision
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (submitted to *BMC Biology*)
+E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (re-submitted after revisions to *BMC Biology*)
+
+__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (submitted to *Journal of Ecology*)
 
 ## Published
 
-J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forests and Biodiversity 2: a low density tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1) *bioRxiv* (accepted at *Methods in Ecology and Evolution*)
+J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forest and Biodiversity 2: A tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14435) *Methods in Ecology and Evolution* (early view). [PDF](/Documents/CavenderBaresetal2024MEE.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1).
 
-R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation. (\*equal contributors; accepted at *Ecological Applications*)
+R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossman, S. E. Hobbie, C. Nash, G. C. Neumiller, and C. R. See\*. [Independent effects of tree diversity on aboveground woody and soil carbon pools after 6 years of experimental afforestation.](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/eap.3042) *Ecological Applications* (early view). [PDF](/Documents/Bryantetal2024EcolApps.pdf) (\*equal contributors)
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2023-0280) *Canadian Journal of Forest Research* 54 (2024): 978-991. [PDF](/Documents/Kotharietal2024CJFR.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1)
 
