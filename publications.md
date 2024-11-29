@@ -22,7 +22,7 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (in revision)
 
-C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (submitted to *Methods in Ecology and Evolution*)
+C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (submitted to *Remote Sensing of Environment*)
 
 ## Published
 
