@@ -24,6 +24,8 @@ __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional 
 
 C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (submitted to *Remote Sensing of Environment*)
 
+R. Esteban, B. Demmig-Adams, W. Adams III, and \textbf{S. Kothari}. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
+
 ## Published
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (accepted at *BMC Biology*)
