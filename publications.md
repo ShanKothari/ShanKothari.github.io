@@ -12,9 +12,13 @@ __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic con
 
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
 
-D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. Seeing herbaria in a new light: next generation digitization of spectral reflectance for plant biodiversity collections.
+D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.
 
 L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
+
+J. Lamour et al. (many authors including __S. Kothari__). The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and traits for developing models of photosynthetic capacity.
+
+R. Brooker et al. (many authors including __S. Kothari__). Unpacking net interactions in plant communities: more than a parsing fancy.
 
 ## In review or revision
 
