@@ -12,8 +12,6 @@ __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic con
 
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
 
-D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.
-
 L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
 
 J. Lamour et al. (many authors including __S. Kothari__). The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and traits for developing models of photosynthetic capacity.
@@ -26,9 +24,11 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (submitted to *Functional Ecology*)
 
-C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (submitted to *Remote Sensing of Environment*)
+C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (in revision at *Remote Sensing of Environment*)
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
+
+D. White, C. C. Davis, J. A. Guzmán, J. E. Meireles, J. Cavender-Bares, __S. Kothari__, J. M. Robles. Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections. (submitted to *New Phytologist*)
 
 ## Published
 
