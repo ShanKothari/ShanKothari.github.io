@@ -32,7 +32,7 @@ D. White, C. C. Davis, J. A. Guzmán, J. E. Meireles, J. Cavender-Bares, __S. Ko
 
 ## Published
 
-E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://ecoevorxiv.org/repository/view/6000/) *EcoEvoRxiv* (accepted at *BMC Biology*)
+E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler, D. G. Hamilton (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x) *BMC Biology* 23 (2025): 35. [PDF](/Documents/Gouldetal2025BMCBio.pdf) [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/6000/)
 
 J. Cavender-Bares, J. Grossman, J. A. Guzmán, S. E. Hobbie, M. Kaproth, __S. Kothari__, C. Lapadat, R. A. Montgomery, and M. Park. [Forest and Biodiversity 2: A tree diversity experiment to understand the consequences of multiple dimensions of diversity and composition for long-term ecosystem function and resilience.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14435) *Methods in Ecology and Evolution* 15 (2024): 2400-2414. [PDF](/Documents/CavenderBaresetal2024MEE.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.03.09.584227v1).
 
