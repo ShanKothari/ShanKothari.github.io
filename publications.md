@@ -28,7 +28,7 @@ C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mor
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
-D. White, C. C. Davis, J. A. Guzmán, J. E. Meireles, J. Cavender-Bares, __S. Kothari__, J. M. Robles. Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections. (submitted to *New Phytologist*)
+D. White, C. C. Davis, J. A. Guzmán, J. Cavender-Bares, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://ecoevorxiv.org/repository/view/8529/) *EcoEvoRxiv* (submitted to *New Phytologist*)
 
 ## Published
 
