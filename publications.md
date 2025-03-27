@@ -6,30 +6,6 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-## In preparation
-
-__S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
-
-A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
-
-L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
-
-J. Lamour et al. (many authors including __S. Kothari__). The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and traits for developing models of photosynthetic capacity.
-
-R. Brooker et al. (many authors including __S. Kothari__). Unpacking net interactions in plant communities: more than a parsing fancy.
-
-## In review or revision
-
-__S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
-
-__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (submitted to *Functional Ecology*)
-
-C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (in revision at *Remote Sensing of Environment*)
-
-R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
-
-D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://ecoevorxiv.org/repository/view/8529/) *EcoEvoRxiv* (submitted to *New Phytologist*)
-
 ## Published
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler, D. G. Hamilton (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x) *BMC Biology* 23 (2025): 35. [PDF](/Documents/Gouldetal2025BMCBio.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/6000/)
@@ -67,3 +43,27 @@ R. Wang, J. A. Gamon, A. K. Schweiger, J. Cavender-Bares, P. A. Townsend, A. I. 
 __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomery and J. Gamon. [Community-wide consequences of variation in photoprotective physiology among prairie plants.](https://link.springer.com/article/10.1007/s11099-018-0777-9) _Photosynthetica_ 56 (2018): 455–467. [PDF](/Documents/KotharietalPhotosynthetica2018.pdf)
 
 <!--- __S. Kothari__ [Characterization of a Family of Cubic Dynamical Systems.](https://lib.bsu.edu/beneficencepress/mathexchange/08-01/) _Ball State Undergraduate Mathematics Exchange_ (2011), 8(1): 25–36, 201. [PDF](Documents/KothariBSUME2011.pdf) --->
+
+## In review or revision
+
+__S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
+
+__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (in revision at *Functional Ecology*)
+
+C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (in revision at *Remote Sensing of Environment*)
+
+R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
+
+D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://ecoevorxiv.org/repository/view/8529/) *EcoEvoRxiv* (in revision at *New Phytologist*)
+
+R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan. Unpacking net interactions in plant communities: more than a parsing fancy. (submitted to *New Phytologist*)
+
+## In preparation
+
+__S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic control of leaf senescence in winter-deciduous trees.
+
+A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
+
+L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
+
+J. Lamour et al. (many authors including __S. Kothari__). The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and traits for developing models of photosynthetic capacity.
