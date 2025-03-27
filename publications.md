@@ -56,7 +56,7 @@ R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlig
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://ecoevorxiv.org/repository/view/8529/) *EcoEvoRxiv* (in revision at *New Phytologist*)
 
-R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan. Unpacking net interactions in plant communities: more than a parsing fancy. (submitted to *New Phytologist*)
+R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: more than a parsing fancy. (submitted to *New Phytologist*)
 
 ## In preparation
 
