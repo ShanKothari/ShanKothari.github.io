@@ -6,7 +6,9 @@ permalink: /publications/
 
 __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
-## Published
+## Published or in press
+
+__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (accepted at *Functional Ecology*)
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler, D. G. Hamilton (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x) *BMC Biology* 23 (2025): 35. [PDF](/Documents/Gouldetal2025BMCBio.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/6000/)
 
@@ -48,9 +50,7 @@ __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomer
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (resubmitted to *Functional Ecology*)
-
-C. Wallis, A. L. Crofts, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (in revision at *Remote Sensing of Environment*)
+C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (in revision at *Remote Sensing of Environment*)
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
