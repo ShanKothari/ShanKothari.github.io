@@ -52,13 +52,15 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 
 C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (in revision at *Remote Sensing of Environment*)
 
-R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (submitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
+R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (in revision for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://ecoevorxiv.org/repository/view/8529/) *EcoEvoRxiv* (in revision at *New Phytologist*)
 
-R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: more than a parsing fancy. (submitted to *New Phytologist*)
+R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: more than a parsing fancy. (in revision)
 
-J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity. (submitted to *Earth System Science Data*)
+J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). [The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity.](https://essd.copernicus.org/preprints/essd-2025-213/) *Earth System Science Data Discussions* (submitted to *Earth System Science Data*)
+
+J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [NextGeneration specimen digitization: The international herbarium community goes spectral!](https://ecoevorxiv.org/repository/view/9230/) *EcoEvoRxiv* (submitted to *New Phytologist*)
 
 ## In preparation
 
@@ -67,5 +69,3 @@ __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic con
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
 
 L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
-
-J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). NextGeneration specimen digitization: The international herbarium community goes spectral! (in preparation for *New Phytologist*)
