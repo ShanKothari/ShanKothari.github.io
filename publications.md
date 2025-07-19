@@ -8,11 +8,11 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## Published or in press
 
-C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. (accepted at *Remote Sensing of Environment*)
-
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (accepted at *Functional Ecology*)
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
+
+C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. *Remote Sensing of Environment* 328 (2025): 114907. [PDF](/Documents/Wallisetal2025RSE.pdf)
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler, D. G. Hamilton (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x) *BMC Biology* 23 (2025): 35. [PDF](/Documents/Gouldetal2025BMCBio.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/6000/)
 
@@ -54,7 +54,7 @@ __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomer
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: Energy Impinging upon and Distributed within the Plant. (in revision for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
+R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (in revision for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
 R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: more than a parsing fancy. (in revision)
 
