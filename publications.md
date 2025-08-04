@@ -8,11 +8,11 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## Published or in press
 
-__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1) *bioRxiv* (accepted at *Functional Ecology*)
+__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.70116) *Functional Ecology* (early view). [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1)
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
 
-C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. Methodological considerations for studying spectral-plant diversity relationships. *Remote Sensing of Environment* 328 (2025): 114907. [PDF](/Documents/WallisetalRSE2025.pdf)
+C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. [Methodological considerations for studying spectral-plant diversity relationships.](https://www.sciencedirect.com/science/article/pii/S0034425725003116) *Remote Sensing of Environment* 328 (2025): 114907. [PDF](/Documents/WallisetalRSE2025.pdf)
 
 E. Gould, H. S. Fraser, T. H. Parker, S. Nakagawa, S. Griffith, P. Vesk, F. Fidler, D. G. Hamilton (__S. Kothari__ among 200+ other alphabetical authors). [Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x) *BMC Biology* 23 (2025): 35. [PDF](/Documents/Gouldetal2025BMCBio.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/6000/)
 
@@ -22,7 +22,7 @@ R. L. Bryant\*, __S. Kothari__\*, J. Cavender-Bares, S. J. Curran, J. J. Grossma
 
 __S. Kothari__, S. E. Hobbie and J. Cavender-Bares. [Rapid estimates of leaf litter chemistry using reflectance spectroscopy.](https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2023-0280) *Canadian Journal of Forest Research* 54 (2024): 978-991. [PDF](/Documents/Kotharietal2024CJFR.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2023.11.27.568939v1)
 
-C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. Exploring the spectral variation hypothesis for α- and β-diversity: A comparison of open vegetation and forests. *Environmental Research Letters* 19 (2024): 064005. [PDF](/Documents/WallisetalERL2024.pdf)
+C. Wallis, __S. Kothari__, J. Jantzen, A. L. Crofts, S. St-Jean, D. Inamdar, M. Kalacska, A. Bruneau, N. Coops, E. Laliberté, and M. Vellend. [Exploring the spectral variation hypothesis for α- and β-diversity: A comparison of open vegetation and forests.](https://iopscience.iop.org/article/10.1088/1748-9326/ad44b1) *Environmental Research Letters* 19 (2024): 064005. [PDF](/Documents/WallisetalERL2024.pdf)
 
 __S. Kothari__, R. Beauchamp-Rioux, F. Blanchard, A. Crofts, A. Girard, X. Guilbeault-Mayers, P. Hacker, J. Pardo, A. K. Schweiger, S. Demers-Thibeault, A. Bruneau, N. Coops, M. Kalacska, M. Vellend and E. Laliberté. [Predicting leaf traits across functional groups using reflectance spectroscopy.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18713) *New Phytologist* 238 (2023): 549-566. [PDF](/Documents/KotharietalNewPhyt2023.pdf), [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2022.07.01.498461), and [corrigendum](/Documents/Kotharietal2023NewPhyt_corrigendum.pdf)
 
