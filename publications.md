@@ -54,13 +54,13 @@ __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomer
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (in revision for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
+R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (resubmitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
 R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: more than a parsing fancy. (in revision)
 
-J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). [The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity.](https://essd.copernicus.org/preprints/essd-2025-213/) *Earth System Science Data Discussions* (submitted to *Earth System Science Data*)
+J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). [The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity.](https://essd.copernicus.org/preprints/essd-2025-213/) *Earth System Science Data Discussions* (resubmitted to *Earth System Science Data*)
 
-J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [NextGeneration specimen digitization: The international herbarium community goes spectral!](https://ecoevorxiv.org/repository/view/9230/) *EcoEvoRxiv* (submitted to *New Phytologist*)
+J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://ecoevorxiv.org/repository/view/9230/) *EcoEvoRxiv* (accepted at *New Phytologist*)
 
 ## In preparation
 
