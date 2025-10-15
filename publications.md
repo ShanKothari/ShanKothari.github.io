@@ -12,7 +12,7 @@ J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Ne
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
 
-__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.70116) *Functional Ecology* 39 (2025): 2234-2250. [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1)
+__S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Self-pruning in tree crowns is influenced by functional strategies and neighbourhood interactions.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.70116) *Functional Ecology* 39 (2025): 2234-2250. [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1)
 
 C. Wallis, A. L. Crofts, R. Jackisch, __S. Kothari__, G. Tougas, D. Inamdar, J. P. Arroyo-Mora, M. Kalacska, N. Coops, E. Laliberté, and M. Vellend. [Methodological considerations for studying spectral-plant diversity relationships.](https://www.sciencedirect.com/science/article/pii/S0034425725003116) *Remote Sensing of Environment* 328 (2025): 114907. [PDF](/Documents/WallisetalRSE2025.pdf)
 
