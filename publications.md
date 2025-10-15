@@ -8,6 +8,8 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## Published or in press
 
+J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://ecoevorxiv.org/repository/view/9230/) *EcoEvoRxiv* (accepted at *New Phytologist*)
+
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Functional strategies and neighborhood interactions influence self-pruning in tree crowns.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.70116) *Functional Ecology* (early view). [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1)
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
@@ -56,11 +58,9 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (resubmitted to the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
-R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: more than a parsing fancy. (in revision)
+R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (submitted to *American Naturalist*)
 
 J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). [The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity.](https://essd.copernicus.org/preprints/essd-2025-213/) *Earth System Science Data Discussions* (resubmitted to *Earth System Science Data*)
-
-J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://ecoevorxiv.org/repository/view/9230/) *EcoEvoRxiv* (accepted at *New Phytologist*)
 
 ## In preparation
 
