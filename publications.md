@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-__Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
+__Check out my CV [here](/Documents/Kothari_fullCV.pdf)__!
 
 ## Published or in press
 
