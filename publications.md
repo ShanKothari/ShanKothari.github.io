@@ -8,7 +8,7 @@ __Check out my CV [here](/Documents/Kothari_CV3_GRAD8101_v3.pdf)__!
 
 ## Published or in press
 
-J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://ecoevorxiv.org/repository/view/9230/) *EcoEvoRxiv* (accepted at *New Phytologist*)
+J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70645) *New Phytologist* (early view). [*EcoEvoRxiv* version]((https://ecoevorxiv.org/repository/view/9230/))
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
 
