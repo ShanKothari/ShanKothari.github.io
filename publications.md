@@ -73,3 +73,7 @@ L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker,
 B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models underestimate the impact of future atmospheric dryness on European tree growth.
 
 R. Jackson, __S. Kothari__, W. Cardinal-McTeague. Effects of specimen degradation on herbarium leaf spectroscopy.
+
+D. White, F. Durgante, J. A. Kennedy, M. W. Austin, C. O. Nichodemus, J. A. Guzmán Q., (__S. Kothari__ among 10+ alphabetical authors), J. Cavender-Bares. A comprehensive, flexible protocol for interoperable spectral reflectance measurements of herbarium leaf tissues.
+
+J. M. Posada*, __S. Kothari__*, A. Paquette. Limited ability to predict photosynthetic traits from dried-leaf reflectance spectra. (\*equal contributors)
