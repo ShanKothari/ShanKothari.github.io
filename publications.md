@@ -71,3 +71,5 @@ A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. T
 L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
 
 B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models underestimate the impact of future atmospheric dryness on European tree growth.
+
+R. Jackson, __S. Kothari__, W. Cardinal-McTeague. Effects of specimen degradation on herbarium leaf spectroscopy.
