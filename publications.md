@@ -60,7 +60,9 @@ __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomer
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (submitted to *American Naturalist*)
+R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (in revision)
+
+B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models likely underestimate the impact of future atmospheric dryness on European tree growth. (submitted to *Geophysical Research Letters*)
 
 ## In preparation
 
@@ -69,8 +71,6 @@ __S. Kothari__, F. Blanchard, S. Demers-Thibeault and E. Laliberté. Edaphic con
 A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. Temperton, B. Aguirre, K. Balazs, B. Butterfield, C. Schöb, L. Stefan, and K. Barry. Facilitation of low yielding species is ubiquitous and drives many biodiversity-ecosystem functioning relationships.
 
 L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
-
-B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models underestimate the impact of future atmospheric dryness on European tree growth.
 
 R. Jackson, __S. Kothari__, W. Cardinal-McTeague. Effects of specimen degradation on herbarium leaf spectroscopy.
 
