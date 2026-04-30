@@ -60,9 +60,11 @@ __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomer
 
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
-R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (in revision)
+R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (submitted to *Journal of Vegetation Science*)
 
-B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models likely underestimate the impact of future atmospheric dryness on European tree growth. (submitted to *Geophysical Research Letters*)
+B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models likely underestimate the impact of future atmospheric dryness on European tree growth. (in revision at *Geophysical Research Letters*)
+
+D. White, F. Durgante, M. W. Austin, J. A. Guzmán Q., J. A. Kennedy, C. O. Nichodemus, (__S. Kothari__ among 20+ alphabetical authors), J. Cavender-Bares. A comprehensive, flexible protocol for interoperable spectral reflectance measurements of herbarium leaf tissues. (submitted to *Systematic Botany*)
 
 ## In preparation
 
@@ -73,7 +75,5 @@ A. J. Wright, __S. Kothari__, R. Brooker, A. Hector, G. Losapio, B. Schmid, V. T
 L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker, A. Hector, __S. Kothari__, G. Losapio, B. Schmid, V. M. Temperton, A. J. Wright, C. Schöb. Facilitation is as strong a driver of complementarity effects in polycultures as is competition alleviation.
 
 R. Jackson, __S. Kothari__, W. Cardinal-McTeague. Effects of specimen degradation on herbarium leaf spectroscopy.
-
-D. White, F. Durgante, J. A. Kennedy, M. W. Austin, C. O. Nichodemus, J. A. Guzmán Q., (__S. Kothari__ among 10+ alphabetical authors), J. Cavender-Bares. A comprehensive, flexible protocol for interoperable spectral reflectance measurements of herbarium leaf tissues.
 
 J. M. Posada*, __S. Kothari__*, A. Paquette. Limited ability to predict photosynthetic traits from dried-leaf reflectance spectra. (\*equal contributors)
