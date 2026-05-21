@@ -8,6 +8,8 @@ __Check out my CV [here](/Documents/Kothari_fullCV.pdf)__!
 
 ## Published or in press
 
+A. Antonelli, (__S. Kothari among 400+ authors). State of the World’s Plants and Fungi 2026. Royal Botanic Gardens, Kew. (in press)
+
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (accepted for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
 J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70645) *New Phytologist* (early view). [*EcoEvoRxiv* version]((https://ecoevorxiv.org/repository/view/9230/))
