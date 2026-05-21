@@ -8,7 +8,7 @@ __Check out my CV [here](/Documents/Kothari_fullCV.pdf)__!
 
 ## Published or in press
 
-A. Antonelli, (__S. Kothari among 400+ authors). State of the World’s Plants and Fungi 2026. Royal Botanic Gardens, Kew. (in press)
+A. Antonelli, (__S. Kothari__ among 400+ authors). State of the World’s Plants and Fungi 2026. Royal Botanic Gardens, Kew. (in press)
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (accepted for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
