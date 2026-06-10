@@ -8,6 +8,8 @@ __Check out my CV [here](/Documents/Kothari_fullCV.pdf)__!
 
 ## Published or in press
 
+B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models likely underestimate the impact of future atmospheric dryness on European tree growth. (accepted at *Geophysical Research Letters*)
+
 A. Antonelli, (__S. Kothari__ among 400+ authors). State of the World’s Plants and Fungi 2026. Royal Botanic Gardens, Kew. (in press)
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (accepted for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
@@ -63,8 +65,6 @@ __S. Kothari__, J. Cavender-Bares, K. Bitan, A. Verhoeven, R. Wang, R. Montgomer
 __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](https://ecoevorxiv.org/repository/view/3659/) *EcoEvoRxiv* (in revision at *American Journal of Botany*).
 
 R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (submitted to *Journal of Vegetation Science*)
-
-B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models likely underestimate the impact of future atmospheric dryness on European tree growth. (in revision at *Geophysical Research Letters*)
 
 D. White, F. Durgante, M. W. Austin, J. A. Guzmán Q., J. A. Kennedy, C. O. Nichodemus, (__S. Kothari__ among 20+ alphabetical authors), J. Cavender-Bares. A comprehensive, flexible protocol for interoperable spectral reflectance measurements of herbarium leaf tissues. (submitted to *Systematic Botany*)
 
