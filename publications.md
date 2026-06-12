@@ -78,4 +78,4 @@ L. Stefan, B. Butterfield, B. A. Aguirre, K. R. Balazs, K. E. Barry, R. Brooker,
 
 R. Jackson, __S. Kothari__, W. Cardinal-McTeague. Effects of specimen degradation on herbarium leaf spectroscopy.
 
-J. M. Posada*, __S. Kothari__*, A. Paquette. Limited ability to predict photosynthetic traits from dried-leaf reflectance spectra. (\*equal contributors)
+J. M. Posada\*, __S. Kothari__\*, A. Paquette. Limited ability to predict photosynthetic traits from dried-leaf reflectance spectra. (\*equal contributors)
