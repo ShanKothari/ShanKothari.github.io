@@ -66,7 +66,7 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 
 R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (submitted to *Journal of Vegetation Science*)
 
-D. White, F. Durgante, M. W. Austin, J. A. Guzmán Q., J. A. Kennedy, C. O. Nichodemus, (__S. Kothari__ among 20+ alphabetical authors), J. Cavender-Bares. A protocol for standardizing measurements and enabling global harmonization of herbarium leaf reflectance spectra. (submitted to *Systematic Botany*) [*EcoEvoRxiv version*](https://ecoevorxiv.org/repository/view/13101/)
+D. White, F. Durgante, M. W. Austin, J. A. Guzmán Q., J. A. Kennedy, C. O. Nichodemus, (__S. Kothari__ among 20+ alphabetical authors), J. Cavender-Bares. A protocol for standardizing measurements and enabling global harmonization of herbarium leaf reflectance spectra. [*EcoEvoRxiv version*](https://ecoevorxiv.org/repository/view/13101/) (in revision at *Systematic Botany*)
 
 ## In preparation
 
