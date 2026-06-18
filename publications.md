@@ -18,7 +18,7 @@ J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Ne
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
 
-J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). [The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity.](https://essd.copernicus.org/preprints/essd-2025-213/) *Earth System Science Data* 18 (2026): 245-265.
+J. Lamour, S. Serbin, A. Rogers (__S. Kothari__ among 80+ alphabetical authors). [The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity.](https://essd.copernicus.org/articles/18/245/2026/essd-18-245-2026-discussion.html) *Earth System Science Data* 18 (2026): 245-265. [PDF](/Documents/Lamouretal2025ESSD.pdf)
 
 __S. Kothari__, J. Urgoiti, C. Messier, W. Keeton, and A. Paquette. [Self-pruning in tree crowns is influenced by functional strategies and neighbourhood interactions.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.70116) *Functional Ecology* 39 (2025): 2234-2250. [PDF](/Documents/KotharietalFunctEcol2025.pdf) and [*bioRxiv* version](https://www.biorxiv.org/content/10.1101/2024.10.17.618957v1)
 
@@ -66,7 +66,7 @@ __S. Kothari__. [When and how does photoinhibition matter for plant fitness?](ht
 
 R. Brooker, A. Hector, V. Temperton, A. Wright, B. Aguirre, K. Balazs, K. Barry, B. Butterfield, C. Lortie, G. Losapio, __S. Kothari__, B. Schmid, C. Schöb, L. Stefan, R. Callaway. Unpacking net interactions in plant communities: another road to generalization? (submitted to *Journal of Vegetation Science*)
 
-D. White, F. Durgante, M. W. Austin, J. A. Guzmán Q., J. A. Kennedy, C. O. Nichodemus, (__S. Kothari__ among 20+ alphabetical authors), J. Cavender-Bares. A comprehensive, flexible protocol for interoperable spectral reflectance measurements of herbarium leaf tissues. (submitted to *Systematic Botany*)
+D. White, F. Durgante, M. W. Austin, J. A. Guzmán Q., J. A. Kennedy, C. O. Nichodemus, (__S. Kothari__ among 20+ alphabetical authors), J. Cavender-Bares. A protocol for standardizing measurements and enabling global harmonization of herbarium leaf reflectance spectra. (submitted to *Systematic Botany*) [*EcoEvoRxiv version*](https://ecoevorxiv.org/repository/view/13101/)
 
 ## In preparation
 
