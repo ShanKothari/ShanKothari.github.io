@@ -8,13 +8,13 @@ __Check out my CV [here](/Documents/Kothari_fullCV.pdf)__!
 
 ## Published or in press
 
-B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. Land models likely underestimate the impact of future atmospheric dryness on European tree growth. (accepted at *Geophysical Research Letters*)
-
-A. Antonelli, (__S. Kothari__ among 400+ authors). State of the World’s Plants and Fungi 2026. Royal Botanic Gardens, Kew. (in press)
-
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (accepted for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
-J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70645) *New Phytologist* (early view). [*EcoEvoRxiv* version]((https://ecoevorxiv.org/repository/view/9230/))
+B. Clark, D. Visioni, __S. Kothari__, M. Lerdau. [Land models likely underestimate the impact of future atmospheric dryness on European tree growth.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122759) *Geophysical Research Letters* 53 (2026): e2026GL122759. [PDF](/Documents/Clarketal2026GRL.pdf)
+
+A. Antonelli, (__S. Kothari__ among 400+ authors). [State of the World’s Plants and Fungi 2026.](https://www.kew.org/science/state-of-the-worlds-plants-and-fungi) Royal Botanic Gardens, Kew. [PDF](/Documents/Antonellietal2026Kew.pdf)
+
+J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70645) *New Phytologist* (early view). [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/9230/)
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* (early view). [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
 
