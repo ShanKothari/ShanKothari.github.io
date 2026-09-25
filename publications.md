@@ -10,7 +10,7 @@ __Check out my CV [here](/Documents/Kothari_fullCV.pdf)__!
 
 R. Esteban, B. Demmig-Adams, W. Adams III, and __S. Kothari__. Forests in Sunlight: How Energy Flows into and Is Used Within the Plant. (accepted for the edited volume *Following Photons Through Forests: A Radiation Ecology*)
 
-J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70645) *New Phytologist* 251 (2026): 645–665. [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/9230/)
+J. Cavender-Bares, D. White (__S. Kothari__ among 25+ alphabetical authors). [Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70645) *New Phytologist* 251 (2026): 645–665. [PDF](CavenderBaresetal2026NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/9230/)
 
 D. White, J. Cavender-Bares, C. C. Davis, J. A. Guzmán, __S. Kothari__, J. M. Robles, J. E. Meireles. [Seeing herbaria in a new light: leaf reflectance spectroscopy unlocks predictive trait and classification modeling in plant biodiversity collections.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70357) *New Phytologist* 251 (2026): 811–829. [PDF](/Documents/Whiteetal2025NewPhyt.pdf) and [*EcoEvoRxiv* version](https://ecoevorxiv.org/repository/view/8529/)
 
