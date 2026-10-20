@@ -9,4 +9,4 @@ I also think about light as a tool to understand other aspects of plant function
 
 I'm currently setting up a lab in the Department of Renewable Resources at University of Alberta. From 2020 to 2024, I was a postdoctoral researcher, first in Etienne Laliberté's lab at Université de Montréal, then in Alain Paquette's lab at Université du Québec à Montréal. Before that, I did my PhD in the [Cavender-Bares Lab](https://cbs.umn.edu/cavender-bares-lab/home) at University of Minnesota.
 
-Follow me [on Twitter](https://twitter.com/ShanKothari), and please feel free to reach out at <shan.kothari@ualberta.ca>!
+Please feel free to reach out at <shan.kothari@ualberta.ca>!
